@@ -69,6 +69,7 @@ jobpilot-ai
 ├── app.py
 ├── database.db
 ├── requirements.txt
+├── images.png
 └── README.md
 ```
 
