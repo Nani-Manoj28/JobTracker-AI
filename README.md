@@ -95,7 +95,7 @@ streamlit run app.py
 
 
 ```
-https://jobpilot-ai.streamlit.app
+https://jobtracker-ai.streamlit.app/
 ```
 
 ---
